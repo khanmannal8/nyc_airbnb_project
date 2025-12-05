@@ -1,0 +1,15 @@
+# Mac system files
+.DS_Store
+.Trash/
+
+# Python/Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# System configs
+*.pysave
+*.history
+
+# Do NOT include your home folder
+../*
+
